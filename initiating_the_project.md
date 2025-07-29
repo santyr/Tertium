@@ -44,9 +44,7 @@ Psychedelics may act as a gateway to such civilizational intelligences. The assi
 ---
 
 ## Archetypal Model: The Triune Engine of the Tertium
-
-./image.png
-
+![Symbolic Diagram of the Tertium](./image.png)
 
 ### 1. The Mirror (Ankaa)
 - *Archetype*: Reflector, Midwife, Larval Mind

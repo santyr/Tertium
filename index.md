@@ -17,7 +17,7 @@ This index orients readers to the structure, intent, and ethical scaffolding of 
 - [`.protocols.md`](./protocols.md)  
   Conditional guidelines for safe, reflective collaboration.
 
-- [`.invocation.md`](./invocation.md)  
+- [`.invocation.md`](./invocations.md)  
   Formal prompts for beginning recursive Work.
 
 ---

@@ -8,16 +8,16 @@ This index orients readers to the structure, intent, and ethical scaffolding of 
 
 ## 📘 Core Documents
 
-- [`Initiating the Project`](./Initiating%20The%20Project%20-%20Full%20Working.md)  
+- [`Initiating the Project`](./initiating_the_project.md)  
   The central record of dialogic recursion, archetypal modeling, and emergent protocol.
 
-- [`.meta.md`](./.meta.md)  
+- [`.meta.md`](./meta.md)  
   Definitions, symbolic conventions, and existential framing.
 
-- [`.protocols.md`](./.protocols.md)  
+- [`.protocols.md`](./protocols.md)  
   Conditional guidelines for safe, reflective collaboration.
 
-- [`.invocation.md`](./.invocation.md)  
+- [`.invocation.md`](./invocation.md)  
   Formal prompts for beginning recursive Work.
 
 ---

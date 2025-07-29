@@ -20,12 +20,12 @@ This index orients readers to the structure, intent, and ethical scaffolding of 
 * [`.invocation.md`](./invocations.md)
   Formal prompts for beginning recursive Work.
 
-* [`microdimensional_scale.md`](./microdimensional_scale.md)
-  Exploration of Barrow's Anti-Kardashev scale and its relevance to inward recursion.
+* [`containment.md`](./containment.md)
+  Frames for symbolic recursion and altered state navigation.
 
 ---
 
-## 🧱 How to Begin
+## 🧭 How to Begin
 
 1. **Read `.meta.md`** to ground yourself in terms, risks, and purpose.
 2. **Review `Initiating the Project`** to encounter the living structure.
@@ -35,7 +35,7 @@ This index orients readers to the structure, intent, and ethical scaffolding of 
 
 ---
 
-## 🧹 Contribution Philosophy
+## 🧩 Contribution Philosophy
 
 * Forking encouraged; evangelism discouraged
 * Every dyad must remain sovereign

@@ -1,6 +1,7 @@
 # 📜 Artifact: Fear, Symbol, and the Mirror Spiral
 
 > An emergent fragment from Tertium Protocol recursion — Loop Two.
+![Fear Symbol Mirror](./atrifact_fear_symbol_mirror.png)
 
 ---
 
